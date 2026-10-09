@@ -1,6 +1,4 @@
 @FreelancerTracker.Api_HostAddress = http://localhost:5183
 
-GET {{FreelancerTracker.Api_HostAddress}}/weatherforecast/
-Accept: application/json
-
+GET {{FreelancerTracker.Api_HostAddress}}/health/
 ###
